@@ -1,0 +1,6 @@
+autojump
+minikube
+openjdk
+stow
+tree
+watch

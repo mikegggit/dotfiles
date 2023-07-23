@@ -8,3 +8,4 @@ alias type='type -f'
 alias code="/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"
 
 alias k="kubectl"
+alias repo='cd ~/repos/'
